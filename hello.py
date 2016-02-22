@@ -1,3 +1,2 @@
-y = 1
-print y
-print "hello"
+def greeting(msg):
+	print msg
